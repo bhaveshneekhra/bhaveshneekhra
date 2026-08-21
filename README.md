@@ -1,17 +1,21 @@
 # 🧠 About Me (bhaveshneekhra)
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaveshneekhra&show_icons=true&count_private=true&theme=radical)
+-->
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=bhaveshneekhra&theme=radical)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bhaveshneekhra&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![Trophies](https://github-profile-trophy.vercel.app/?username=bhaveshneekhra&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ---
 
 # 📊 GitHub website Repo Stats
 
+<!--
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=bhaveshneekhra.github.io&theme=radical)
-
+-->
 ![GitHub stars](https://img.shields.io/github/stars/bhaveshneekhra/bhaveshneekhra.github.io?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/bhaveshneekhra/bhaveshneekhra.github.io?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/bhaveshneekhra/bhaveshneekhra.github.io)
@@ -23,9 +27,9 @@
 ---
 
 # 📊 Synthpop Repo Stats
-
+<!--
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshneekhra&repo=synthpop&theme=radical)
-
+-->
 ![GitHub stars](https://img.shields.io/github/stars/bhaveshneekhra/synthpop?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/bhaveshneekhra/synthpop?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/bhaveshneekhra/synthpop)
